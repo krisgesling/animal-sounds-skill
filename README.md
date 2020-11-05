@@ -21,6 +21,7 @@ krisgesling
 
 ## Attribution
 Sounds are all provided under open licenses from FreeSound.org
+- [Cat](https://freesound.org/s/412016/)
 - [Cow](https://freesound.org/s/58277/)
 - [Dog](https://freesound.org/s/455523/)
 - [Duck](https://freesound.org/s/185134/)
