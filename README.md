@@ -2,11 +2,11 @@
 Hear from our animal friends
 
 ## About
-A fun skill for the little ones. learn what sounds different animals make.
+Learn what sounds different animals make. A fun skill for the little ones. 
 
 ## Examples
-* "What sound does (a|an|the) {animal} make"
-* "What (noise|sound) do {animal} make"
+* "What sound does a dog make"
+* "What noise do ducks make"
 
 ## Credits
 krisgesling
@@ -19,3 +19,8 @@ krisgesling
 #Farm
 #Kids
 
+## Attribution
+Sounds are all provided under open licenses from FreeSound.org
+- [Cow](https://freesound.org/s/58277/)
+- [Dog](https://freesound.org/s/455523/)
+- [Duck](https://freesound.org/s/185134/)
